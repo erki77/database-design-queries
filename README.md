@@ -1,7 +1,7 @@
 # database-design-queries
 Catalog of PostgreSQL system-catalog based queries for getting an overview of the state of the database design or finding the occurrences of specific problems in it.
 
-<p style="font-size:300%;">The catalog is <b>HERE</b>. All the queries in the catalog are open source.</p>
+<p style="font-size:300%;">The catalog is <b>HERE</b>. All the queries in the catalog are <a href=https://maurus.ttu.ee/design_queries/license.php>open source</a>.</p>
 
 The files in the project catalog provide examples.
 
@@ -15,3 +15,5 @@ The files in the project catalog provide examples.
 <li><a target=_blank href=https://htmlpreview.github.io/?https://github.com/erki77/database-design-queries/blob/master/example_of_query_results/find_flaws_automatically.htm>HERE</a> is a result of executing the queries from the collection <i>Find flaws automatically</i> based on the database that is depicted in the file <i>Example_smelly</i>.
 <li><a target=_blank href=https://htmlpreview.github.io/?https://github.com/erki77/database-design-queries/blob/master/example_of_query_results/find_flaws_by_overview.htm>HERE</a> is a result of executing the queries from the collection <i>Find flaws by overview</i> based on the database that is depicted in the file <i>Example_smelly</i>.
 </ul>
+
+[go](http://stackoverflow.com){:target="_blank"}
