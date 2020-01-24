@@ -3,7 +3,7 @@ Catalog of PostgreSQL system-catalog based queries for getting an overview of th
 
 <p style="font-size:300%;">The catalog is <b>HERE</b>. All the queries in the catalog are open source.</p>
 
-<p>The fresh statistics about the catalog content can be seen from <b>HERE</b></p>.
+<p>The fresh statistics about the catalog content can be seen from <b>HERE</b>.</p>
 
 The files in the project catalog provide examples.
 
