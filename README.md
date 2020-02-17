@@ -1,7 +1,7 @@
 # database-design-queries
 Catalog of PostgreSQL system-catalog based queries for getting an overview of the state of the database design or finding the occurrences of specific problems in it.
 
-<p style="font-size:300%;">The catalog is <b>HERE</b>. All the queries in the catalog are open source.</p>
+<p style="font-size:800%;">The catalog is <b>HERE</b>. All the queries in the catalog are open source.</p>
 
 <p>The fresh statistics about the catalog content can be seen from <b>HERE</b>.</p>
 
