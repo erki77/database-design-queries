@@ -1,7 +1,6 @@
 # database-design-queries
 
-
-## The catalog is <a target=_blank href=https://maurus.ttu.ee/design_queries/>HERE</a>. All the queries in the catalog are open source.
+## The catalog is <a target=_blank href=https://maurus.ttu.ee/design_queries/>HERE</a>. All the queries in the catalog are open-source.
 
 ### The fresh statistics about the catalog content can be seen from <a target=_blank href=https://maurus.ttu.ee/design_queries/statistics/>HERE</a>.
 
