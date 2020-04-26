@@ -10,7 +10,7 @@ The files in the project catalog provide examples.
 
 <ul>
 
-<li><a target=_blank href=https://github.com/erki77/database-design-queries/blob/master/Example_smelly.sql>Example_smelly</a> - SQL statements for creating PostgreSQL database base tables that have a number of different database design problems.
+<li><a target=_blank href=https://github.com/erki77/database-design-queries/blob/master/Example_smelly.sql>Example_smelly</a> - SQL statements for creating PostgreSQL database base tables that have a number of different database design problems. The statements are syntactically correct. Quite probably one could even implement a working software on top of these. However, the design has many problems that make it more difficult to understand, learn, use, maintain, and extend the database and software that uses it.
 
 <li><a target=_blank href=https://github.com/erki77/database-design-queries/blob/master/Example_process.sql>Example_process</a> - The comments bring out design problems in the tables that are presented in the file <i>Example_smelly</i>. The comments refer to the problems by using the initial database object names (identifiers) from the file <i>Example_smelly</i>. The SQL statements in the file codify refactorings that are needed in the database to fix the problems. The statements are ordered, i.e., they take into account changes that have been made in the database schema with the previous statements.
 
