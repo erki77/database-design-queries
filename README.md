@@ -18,7 +18,7 @@ The files in the project catalog provide examples.
 </ul>
 
 <ul>
-<li><a target=_blank href=https://htmlpreview.github.io/?https://github.com/erki77/database-design-queries/blob/master/example_of_query_results/find_flaws_automatically.htm>HERE</a> is a result of executing the queries from the collection <i>Find flaws automatically</i> based on the database that is depicted in the file <i>Example_smelly</i>.
+<li><a target=_blank href=https://htmlpreview.github.io/?https://github.com/erki77/database-design-queries/blob/master/example_of_query_results/find_problems_automatically.htm>HERE</a> is a result of executing the queries from the collection <i>Find flaws automatically</i> based on the database that is depicted in the file <i>Example_smelly</i>.
 
-<li><a target=_blank href=https://htmlpreview.github.io/?https://github.com/erki77/database-design-queries/blob/master/example_of_query_results/find_flaws_by_overview.htm>HERE</a> is a result of executing the queries from the collection <i>Find flaws by overview</i> based on the database that is depicted in the file <i>Example_smelly</i>.
+<li><a target=_blank href=https://htmlpreview.github.io/?https://github.com/erki77/database-design-queries/blob/master/example_of_query_results/find_problems_by_overview.htm>HERE</a> is a result of executing the queries from the collection <i>Find flaws by overview</i> based on the database that is depicted in the file <i>Example_smelly</i>.
 </ul>
