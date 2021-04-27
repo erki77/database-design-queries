@@ -14,7 +14,7 @@ It is a part of the work that has been published in the papers:
 <ul>
 <li>Eessaar, E., 2020. Automating Detection of Occurrences of PostgreSQL Database Design Problems. In: Databases and Information Systems: 14th International Baltic Conference 2020 (DB&IS 2020), Tallinn, Estonia, June 16–19, 2020. Eds. Robal, T., Haav, H.-M., Penjam, J., Matulevièius, R. Switzerland: Springer International Publishing, ISBN: 978-3-030-57671-4, pp. 276–189. (Communications in Computer and Information Science; 1243) (<a target=_blank href=https://link.springer.com/chapter/10.1007/978-3-030-57672-1_14>SpringerLink</a>)
 
-<li>Eessaar, E.: The Usage of Declarative Integrity Constraints in the SQL Databases of Some Existing Software. In: 10th Computer Science On-line Conference 2021. (to appear)
+<li>Eessaar, E., 2021. The Usage of Declarative Integrity Constraints in the SQL Databases of Some Existing Software. In: 10th Computer Science On-line Conference 2021. (to appear)
 </ul>
 
 
