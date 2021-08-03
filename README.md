@@ -14,10 +14,8 @@ It is a part of the work that has been published in the papers:
 <ul>
 <li>Eessaar, E., 2020. Automating Detection of Occurrences of PostgreSQL Database Design Problems. In: Databases and Information Systems: 14th International Baltic Conference 2020 (DB&IS 2020), Tallinn, Estonia, June 16–19, 2020. Eds. Robal, T., Haav, H.-M., Penjam, J., Matulevièius, R. Switzerland: Springer International Publishing, ISBN: 978-3-030-57671-4, pp. 276–189. (Communications in Computer and Information Science; 1243) (<a target=_blank href=https://link.springer.com/chapter/10.1007/978-3-030-57672-1_14>SpringerLink</a>)
 
-<li>Eessaar, E., 2021. The Usage of Declarative Integrity Constraints in the SQL Databases of Some Existing Software. In: 10th Computer Science On-line Conference 2021. (to appear)
-</ul>
-
-
+<li>Eessaar, E., 2021. The Usage of Declarative Integrity Constraints in the SQL Databases of Some Existing Software. In: Software Engineering and Algorithms, Vol 1: 10th Computer Science On-line Conference 2021 (CSOC 2021), April 29, - May 2, 2021. Ed. Silhavy, R. Switzerland: Springer International Publishing, ISBN: 978-3-030-77441-7, pp. 375-390. (Lecture Notes in Networks and Systems: 230) (<a target=_blank href=https://link.springer.com/chapter/10.1007/978-3-030-77442-4_33>SpringerLink</a>)
+  
 Additional materials to the catalog of PostgreSQL system-catalog based queries that are used for getting an overview of the state of the database design or finding the occurrences of specific problems in it.
 
 The files in the project catalog provide examples.
