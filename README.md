@@ -1,10 +1,12 @@
 # database-design-queries
 
 ## The catalog is <a target=_blank href=https://maurus.ttu.ee/design_queries/>HERE</a>. All the queries in the catalog are open-source.
-Among other things there are collections: 
+Among other things there are collections that are referenced in the scientific papers: 
 <ul>
   <li>Find problems about integrity constraints
     <li>Find problems about base tables
+    <li>Find problems about names
+    <li>Lexicon bad smells and linguistic antipatterns
       </ul>
 
 ### The fresh statistics about the catalog content can be seen from <a target=_blank href=https://maurus.ttu.ee/design_queries/statistics/>HERE</a>.
