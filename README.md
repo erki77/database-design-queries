@@ -24,6 +24,10 @@ It is a part of the work that has been published in the papers:
   <ul>
      <li>Refers to the collection: Find problems about base tables 
   </ul>
+<li>Eessaar, E., 2023. On the Naming of Database Objects in the SQL Databases of Some Existing Software. CSOC 2023, to appear.
+  <ul>
+  <li>Refers to the collection: Find problems about names 
+  </ul>
 </ul>
 
 Additional materials to the catalog of PostgreSQL system-catalog based queries that are used for getting an overview of the state of the database design or finding the occurrences of specific problems in it.
