@@ -26,7 +26,7 @@ It is a part of the work that has been published in the papers:
   </ul>
 <li>Eessaar, E., 2023. On the Naming of Database Objects in the SQL Databases of Some Existing Software. CSOC 2023, to appear.
   <ul>
-  <li>Refers to the collection: Find problems about names 
+  <li>Refers to the collections: Find problems about names, Lexicon bad smells and linguistic antipatterns
   </ul>
 </ul>
 
