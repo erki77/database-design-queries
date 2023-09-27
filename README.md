@@ -29,7 +29,7 @@ It is a part of the work that has been published in the papers:
   </ul>
 
 
-<li>Eessaar, E. On the Naming of Database Objects in the SQL Databases of Some Existing Software. In: Software Engineering Research in System Science, Vol 1: 12th Computer Science On-line Conference 2023 (CSOC 2023), April 26, - April 29, 2023. Silhavy, R., Silhavy, P. (eds). Switzerland: Springer International Publishing, ISBN: 978-3-031-35311-6, pp. 534-550. (Lecture Notes in Networks and Systems: 722) (2023) (<a target=_blank href=https://link.springer.com/chapter/10.1007/978-3-031-35311-6_51>SpringerLink</a>). 
+<li>Eessaar, E., 2023. On the Naming of Database Objects in the SQL Databases of Some Existing Software. In: Software Engineering Research in System Science, Vol 1: 12th Computer Science On-line Conference 2023 (CSOC 2023), April 26, - April 29, 2023. Silhavy, R., Silhavy, P. (eds). Switzerland: Springer International Publishing, ISBN: 978-3-031-35311-6, pp. 534-550. (Lecture Notes in Networks and Systems: 722) (2023) (<a target=_blank href=https://link.springer.com/chapter/10.1007/978-3-031-35311-6_51>SpringerLink</a>). 
   <ul>
   <li>Refers to the collections: Find problems about names, Lexicon bad smells and linguistic antipatterns
   </ul>
